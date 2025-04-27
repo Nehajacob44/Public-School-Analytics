@@ -1,4 +1,4 @@
-# Public-School-Analytics
+
 # Public Schools Data Analysis
 
 This repository contains a data analysis project on public schools, focusing on the distribution of school categories across various cities.
