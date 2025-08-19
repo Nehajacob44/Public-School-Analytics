@@ -17,6 +17,8 @@ The dataset `Public_Schools_20240831.csv` includes information on 200 public sch
 - **LONGITUDE** and **LATITUDE**: Geographic coordinates
 - **LOCATION**: Combined address and coordinates
 
+- Data set-https://www.kaggle.com/datasets/sahirmaharajj/alcoholic-beverage-violations
+
 ## Project Goals
 
 - Explore the distribution of schools by category.
